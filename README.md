@@ -52,7 +52,7 @@ No external datasets were used beyond the provided competition data and standard
 ## Results
 
 * **Local Validation (SMAPE)**: A local validation using an 80/20 train/validation split (on the full multimodal features including advanced text and image embeddings) achieved a **SMAPE score of approximately 55.65%** on the log-price scale. Note: This validation model was trained only on the 80% split for evaluation purposes. The final submission model is trained on 100% of the training data.
-* **Public/Private Leaderboard**: (Replace with your actual scores after submission)
+* **Public/Private Leaderboard**: 55
 
 ## Hardware & Runtime
 
