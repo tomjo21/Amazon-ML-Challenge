@@ -14,7 +14,6 @@ Given product-level inputs (catalog content text and product image URLs), predic
 * **`test.csv`**: Contains `sample_id`, `catalog_content`, and `image_link`.
 * **Product Images**: Downloaded from the `image_link` URLs provided in the CSV files.
 
-No external datasets were used beyond the provided competition data and standard pre-trained models.
 
 ## Our Approach
 
